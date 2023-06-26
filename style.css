@@ -5,7 +5,7 @@
 }
 
 .body{
-    background: url("../bg.jpg");
+    background: url("bg.jpg");
     min-height: 100vh;
     background-size: 100vw 100vh;
     background-repeat: no-repeat;/* not required here as background size is already set to 100vh 100vw */
